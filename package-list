@@ -1,0 +1,14 @@
+org.seedstack.business.api
+org.seedstack.business.api.domain
+org.seedstack.business.api.domain.events
+org.seedstack.business.api.domain.identity
+org.seedstack.business.api.domain.stereotypes
+org.seedstack.business.api.interfaces
+org.seedstack.business.api.interfaces.assembler
+org.seedstack.business.api.interfaces.assembler.dsl
+org.seedstack.business.api.interfaces.finder
+org.seedstack.business.api.interfaces.view
+org.seedstack.business.jpa
+org.seedstack.business.spi
+org.seedstack.business.test
+org.seedstack.business.test.event
